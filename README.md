@@ -158,11 +158,6 @@ Using JAX-RS filters for cross-cutting concerns like logging is advantageous bec
 - **Separation of concerns:** Business logic stays focused on domain operations, not infrastructure concerns like logging
 - **Framework integration:** Filters have access to request/response contexts that individual methods don't
 
----
-
-## 🎥 Video Demonstration
-
-[Link to video: Uploaded separately to Blackboard]
 
 ---
 
